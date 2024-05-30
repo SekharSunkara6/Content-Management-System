@@ -96,7 +96,7 @@ PORT=your-port
 
 Replace `your-mongodb-connection-string` with your MongoDB connection string, and `your-secret-key` with a secure secret key for JWT authentication.
 
-⚠️ **IMPORTANT: Before running the application, ensure you add your IP to your MongoDB cluster whitelist to allow access.**
+NOTE: Before running the application, ensure you add your IP to your MongoDB cluster whitelist to allow access.**
 
 5. Start the development server:
 6. ## Installation and Setup
