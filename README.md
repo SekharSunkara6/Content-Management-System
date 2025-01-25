@@ -4,7 +4,7 @@ This is a web application for managing articles. It allows administrators to cre
 
 ## Overview
 
-The Article Management System is designed to facilitate the creation and management of articles by both regular users and administrators. Regular users can create an account, log in, and create new articles. On the other hand, administrators have access to the admin dashboard, where they can manage articles and users.
+The Article Management System is designed to facilitate the creation and management of articles by both regular users and administrators. Regular users can create an account, log in, and create new articles.
 
 The main features of the Article Management System include:
 
